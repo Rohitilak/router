@@ -1,0 +1,22 @@
+nav{
+    background-color: black;
+    color: white;;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul{
+    display: flex;
+    color: white;
+    gap: 3rem;
+}
+
+a{
+    list-style: none;
+    color: white;
+}
+
+.red{
+    background-color: red;
+    color: white;
+}
